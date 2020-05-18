@@ -4,7 +4,7 @@
 
 ## Links
 
-- Live Demo：https://leigangblog.github.io/world_reading_day/index.htm
+- Live Demo：https://leigangblog.github.io/world_reading_day/index.html
 - 我的GitHub：https://github.com/leigangblog
 - 我的博客：https://leigangblog.github.io
 - 录像：[bilibili](https://www.bilibili.com/video/BV1kt4y127GY) 

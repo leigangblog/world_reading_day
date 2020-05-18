@@ -3,8 +3,10 @@
 基于 reveal.js 编写
 
 ## Links
-
-- Live Demo：<a href="https://leigangblog.github.io/world_reading_day/index.html" target="_blank">demo </a>
+<pre>
+使用Ctrl + click打开网页
+</pre>
+- Live Demo：https://leigangblog.github.io/world_reading_day/index.html
 - 我的GitHub：https://github.com/leigangblog
 - 我的博客：https://leigangblog.github.io
 - 录像：[bilibili](https://www.bilibili.com/video/BV1kt4y127GY) 

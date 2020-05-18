@@ -3,7 +3,9 @@
 基于 reveal.js 编写
 
 ## Links
-
+<pre>
+	使用Ctrl + click打开网页
+</pre>
 - Live Demo：<a href="https://leigangblog.github.io/world_reading_day/index.html" target="_blank">demo </a>
 - 我的GitHub：https://github.com/leigangblog
 - 我的博客：https://leigangblog.github.io
